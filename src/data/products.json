@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "name": "The Full House Kota",
+    "description": "Chips, polony, cheese, russian, atchar, and our signature sauce",
+    "price": 55,
+    "category": "Classic",
+    "brand": "Kasi Kota",
+    "imageUrl": "/images/kotas/full-house-kota.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Cheesy Russian Kota",
+    "description": "Double cheese, grilled russian, chips, and spicy mayo",
+    "price": 30,
+    "category": "Classic",
+    "brand": "Kasi Kota",
+    "imageUrl": "/images/kotas/cheesy-russian-kota.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Spicy Chicken Kota",
+    "description": "Grilled chicken, hot chips, jalapeños, and peri-peri sauce",
+    "price": 40,
+    "category": "Premium",
+    "brand": "Kasi Kota",
+    "imageUrl": "/images/kotas/spicy-chicken-kota.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Veggie Delight Kota",
+    "description": "Grilled veggies, chips, cheese, and garlic mayo",
+    "price": 35,
+    "category": "Vegetarian",
+    "brand": "Kasi Kota",
+    "imageUrl": "/images/kotas/veggie-delight-kota.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Breakfast Kota",
+    "description": "Eggs, bacon, cheese, chips, and tomato sauce",
+    "price": 32,
+    "category": "Breakfast",
+    "brand": "Kasi Kota",
+    "imageUrl":  "/images/kotas/breakfast-kota.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Burger Supreme Kota",
+    "description": "Premium burger, cheese, chips, and mushroom sauce",
+    "price": 50,
+    "category": "Premium",
+    "brand": "Kasi Kota",
+    "imageUrl": "/images/kotas/burger-supreme-kota.jpg"
+  }
+]
